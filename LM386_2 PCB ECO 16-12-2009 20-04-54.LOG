@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=PAlimentacion-1
+Added Pin To Net: NetName=GND Pin=PAlimentacion-2
+Added Pin To Net: NetName=GND Pin=PAltavoz-2
+Added Pin To Net: NetName=GND Pin=Pentrada-2
+Added Pin To Net: NetName=NetC1_1 Pin=Potenciometro-2
+Added Pin To Net: NetName=GND Pin=Potenciometro-3
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Room: Name=LM386
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Removed Pin From Net: NetName=NetPentrada_1 Pin=Pentrada-1
+Added Pin To Net: NetName=NetPentrada_1 Pin=Pentrada-1
+Removed Pin From Net: NetName=NetPotenciometro_1 Pin=Potenciometro-1
+Added Pin To Net: NetName=NetPotenciometro_1 Pin=Potenciometro-1

@@ -1,0 +1,76 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(HA-C1)
+Added Component: Designator=C4(HA-C1)
+Added Component: Designator=C5(HA-C1)
+Added Component: Designator=C6(C0805)
+Added Component: Designator=PAlimentacion(HDR1X2)
+Added Component: Designator=PAltavoz(HDR1X2)
+Added Component: Designator=Pentrada(HDR1X2)
+Added Component: Designator=Potenciometro(HDR1X3)
+Added Component: Designator=R1(2012[0805])
+Added Component: Designator=R2(2012[0805])
+Added Component: Designator=U1(N08E)
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=PAlimentacion-2
+Added Pin To Net: NetName=GND Pin=PAlimentacion-2
+Added Pin To Net: NetName=GND Pin=PAltavoz-2
+Added Pin To Net: NetName=GND Pin=PAltavoz-2
+Added Pin To Net: NetName=GND Pin=Pentrada-2
+Added Pin To Net: NetName=GND Pin=Pentrada-2
+Added Pin To Net: NetName=GND Pin=Potenciometro-3
+Added Pin To Net: NetName=GND Pin=Potenciometro-3
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Pentrada-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=Potenciometro-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-5
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=PAltavoz-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-8
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetPentrada_1 Pin=Pentrada-1
+Added Pin To Net: NetName=NetPentrada_1 Pin=R1-1
+Added Net: Name=NetPentrada_1
+Added Pin To Net: NetName=NetPotenciometro_1 Pin=Potenciometro-1
+Added Pin To Net: NetName=NetPotenciometro_1 Pin=R1-2
+Added Net: Name=NetPotenciometro_1
+Added Pin To Net: NetName=NetPotenciometro_2 Pin=Potenciometro-2
+Added Pin To Net: NetName=NetPotenciometro_2 Pin=U1-3
+Added Net: Name=NetPotenciometro_2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=PAlimentacion-1
+Added Pin To Net: NetName=VCC Pin=PAlimentacion-1
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Net: Name=VCC
+Added Class: Name=LM386_2
+Added Class: Name=LM386
+Added Room: Name=LM386
+Added Room: Name=LM386_2
